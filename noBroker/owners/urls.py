@@ -20,6 +20,7 @@ urlpatterns = [
     path('properties/<int:pk>/', PropertyDetailView.as_view(), name='property-detail'),
 ]
 
+# API's for testing
 
 # List Cities (GET): http://127.0.0.1:8000/api/owners/cities/
 # List Cities (GET): http://127.0.0.1:8000/api/owners/cities/1/
