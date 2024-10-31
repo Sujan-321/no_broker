@@ -21,6 +21,10 @@ urlpatterns = [
 ]
 
 # API's for testing
+<<<<<<< HEAD
+=======
+
+>>>>>>> Sujan
 # List Cities (GET): http://127.0.0.1:8000/api/owners/cities/
 # List Cities (GET): http://127.0.0.1:8000/api/owners/cities/1/
 
